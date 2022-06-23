@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.nav{
+  background-color: rgb(229, 57, 157);
+  height: 70px;
+padding: 1px;
+color: rgb(240, 234, 234);
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.bak{
+  margin-left: 300px;
+  margin-top: 12px;
+}
+.nav-links{
+  margin-top: 20px;
+margin-left: 150px;
+
+  /* color: rgb(240, 234, 234); */
+/* text-align: right;
+margin-top: -50px;
+margin-right: 100px; */
+
+}
+.nav-links ul li{
+  display: inline;
+/* text-decoration: none; */
+margin-top: 30px;
+margin-left: 90px;
+color: white;
+/* padding-left: 40px; */
+
+
+}
+.nav-links ul li:hover{
+/* border: 7px solid rgb(83, 85, 230); */
+
+border-width: 20px;
+
+}
+/* .card{
+  width: 300px;
+  height: 200px;
+} */
+.card1{
+  background-color: white;
+  border-radius:10px ;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 2px 3px #888888;
+}
+.card2{
+  background-color: white;
+  border-radius:10px ;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 2px 3px #888888;
+  margin-left: 700px;
+  margin-top: -273px;
+  height: 272px;
+  
+}
+.card1{
+  margin-left: 250px;
+  margin-top: 80px;
+}
+
+/* .card-body{
+  height: 63vh;
+} */
+.tit{
+  text-align: center;
+
+} 
+
+.AccountBoxIcon{
+  text-align: center;
+margin-bottom: -2px;
+
+}
+.ReceiptIcon{
+  text-align: center;
+  margin-bottom: -8px;
+  margin-top: -10px;
+}
+.hr1{
+  border: 1px solid rgb(95, 86, 86);
+}
+.link{
+  text-decoration: none;
+
+
+}
+.link2{
+  text-decoration: none;
+
+}
+.container{
+  width: 900px;
+  height: 200px;
+  margin-left: 300px;
+  margin-top: 30px;
+  background-color: aliceblue;
+}
+.container1{
+  width: 900px;
+  height: 309px;
+  margin-left: 300px;
+  margin-top: 30px;
+  background-color: aliceblue;
+}
+.tra-hea{
+  text-align: center;
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 430px;
+  font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+
+}
+
+.rec-2{
+  margin-left: 250px;
+position: absolute;
+  margin-top: 57px;
+}
+.bac-dash{
+  background-color: rgb(201, 78, 195);
+  color: rgb(215, 212, 230);
+border-radius: 10px;
+
+}
+.hr4{
+  margin-top: 60px;
+}
+.hr5{
+  margin-top: 40px;
+}
+.dt{
+  margin-left: 290px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.as-h{
+  text-align: center;
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 430px;
+  font-family: 'Open Sans', sans-serif;
+      font-weight: 600;
+}
+.bac{
+  float: right;
+  background-color: chartreuse;
+  border-radius: 10px;
+
+}
+.l{
+  text-decoration: none;
+  color: black;
+  border-bottom-style: none;
+}
+
+.head{
+  background-color: coral;
+height: 100px;
+text-align: center;
+color: white;
+}
+.t{
+  color: black;
+}
+.name{
+border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+outline: none;
+position: absolute;
+margin-top: 30px;
+margin-left: 80px;
+width: 300px;
+background: none;
+
+}
+.c{
+  margin-top: 80px;
+}
+
+.r{
+  float: right;
+  margin-top: 10px;
+  margin-right: 99px;
+  width: 300px;
+  border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+outline: none;
+background: none;
+
+}
+.bra{
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  outline: none;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 80px;
+  width: 300px;
+  background: none;
+}
+input:focus {  
+ border-color: aqua;
+
+} 
+input:hover {  
+                  
+ border-color: aqua;
+
+} 
+input::placeholder {
+position: absolute;
+left:1rem;
+top: 0.1rem;
+padding:  0 0.5rem;
+color: rgb(148, 46, 46);
+cursor: text;
+transition: top 200ms ease-in,
+left  200ms ease-in,;
+}
+
+.acocode{
+  float: right;
+  margin-top: 10px;
+  margin-right: 99px;
+  width: 300px;
+  border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+outline: none;
+
+background: none;
+}
+.allaco{
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  outline: none;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 80px;
+  width: 300px;
+  background: none;
+
+}
+.ini{
+  float: right;
+  margin-top: -15px;
+  margin-right: 99px;
+  width: 300px;
+  border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+outline: none;
+background: none;
+}
+select{
+
+  color: rgb(148, 46, 46);
+border-radius: 5px;
+
+
+border-bottom-width:0.2rem;
+}
+
+.bt{
+  margin-left: 400px;
+background-color: aqua;
+color: black;
+font-weight: 600;
+font-family: 'Times New Roman', Times, serif;
+border-radius: 10px;
+}
+/* .table{
+  border: 2px solid black;
+ width: 1000px;
+margin: 0;
+padding: 0;
+} */
+.bd{
+  float: right;
+  margin: 3px;
+}
+.dd{
+  margin-top: 90px;
+margin-left: 150px;
+}
